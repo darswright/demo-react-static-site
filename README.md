@@ -1,4 +1,4 @@
-# React-Static with Netlify CMS | Starter App
+# React-Static with Netlify CMS | Starter App Simon's
 
 React-Static Basic template with added configuration for blog post deployment via Netlify CMS and GitHub.
 
